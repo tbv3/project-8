@@ -5,14 +5,16 @@ Example of a complete end-to-end IoT system with TCP client/server, database, an
 ## _setup instructions_
 
 1. Clone project files
+   
 2. Install dependencies
+  
 3. Configure database
-  - Fill in your database credentials
+      -Fill in your database credentials
 4. Initialize database
-  - Connect to your database and create tables with iot_schema.sql file
+      - Connect to your database and create tables with iot_schema.sql file
 5. Run server
-  - In terminal: python server.py
+      - In terminal: python server.py
 6. Run client
-  - In terminal: python client.py
+      - In terminal: python client.py
 
 
